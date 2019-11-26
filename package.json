@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-js": "parcel npm index.html dist/",
     "build-js": "parcel build index.html dist/"
   },
   "repository": {
