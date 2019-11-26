@@ -1,0 +1,24 @@
+{
+  "name": "klutchendgamers",
+  "version": "1.0.0",
+  "description": "Our first Progressive Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-js": "parcel build index.html dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancek00/klutchendgamers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancek00/klutchendgamers/issues"
+  },
+  "homepage": "https://github.com/nancek00/klutchendgamers#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.7.2"
+  }
+}
